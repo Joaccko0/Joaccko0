@@ -13,8 +13,8 @@
 
 - :school: I am a Junior in the Bachelor's Degree in Computer Science at the Faculty of Informatics, [National University of La Plata (UNLP)](https://www.info.unlp.edu.ar/licenciatura-en-informatica-plan-2021/).
 - :briefcase: Currently employed at Pago Virtual del Sur, a fintech company specializing in payment solutions.
+- :computer: Working as QA Automation, developing integration and automated tests to ensure software quality and streamline the development process through automation.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: Currently working as QA Automation, developing integration and automated tests to ensure software quality and streamline the development process through automation.
 - :student: I’m currently learning `Sring Boot` and `Databases`.
 - :nerd_face: Always `learning new things`.
 <br>
