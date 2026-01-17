@@ -15,6 +15,6 @@
 - :briefcase: Currently employed at Pago Virtual del Sur, a fintech company specializing in payment solutions.
 - :computer: Working as QA Automation, developing integration and automated tests to ensure software quality and streamline the development process through automation.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Sring Boot` and `Databases`.
+- :student: I’m currently learning `Sring Boot` and `TypeScript`.
 - :nerd_face: Always `learning new things`.
 <br>
