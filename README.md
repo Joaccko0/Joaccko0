@@ -1,7 +1,7 @@
 <h1 align="center">Joaquin Retamoso Doglio </h1>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+%7C+SaaS+Founder;From+firmware+to+cloud&center=true&width=360&height=30">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+%7C+SaaS;From+firmware+to+cloud&center=true&width=360&height=30">
 </p>
 
 
